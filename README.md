@@ -9,3 +9,4 @@
 <h3>Pasta de aula = Será criado uma pasta por aula, essa pasta pode conter artigo, comentários, print's qualquer documento que seja importante para ajudar na aula ou atividades.</h3>
 <h3>Pasta de Exercícios = pasta que está/estará dentro a pasta de AULA, aqui pode ser compartilhado codigos de soluções, print's de atividades e respostas. </h3>
 
+
